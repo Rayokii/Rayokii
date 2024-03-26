@@ -1,4 +1,4 @@
-Hi, I’m Rayokii,
+Hi, I’m Ray,
 
     I’m interested in video games, music, coding and fashion
     
