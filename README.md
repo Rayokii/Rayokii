@@ -1,6 +1,6 @@
 Hi, I’m Ray,
 
-    I’m interested in video games, music, coding and fashion
+    I’m interested in coding, video games, music, cars and fashion
     
      I have knowledge in: Python, JS, Bash
      
