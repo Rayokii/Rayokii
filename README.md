@@ -4,5 +4,5 @@ Hi, I’m Ray,
     
      I have knowledge in: Python, JS, Bash
      
-      I’m currently learning: Java, SQL
+      I’m currently learning: Java, Bootstrap, React, SQL
       
