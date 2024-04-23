@@ -1,4 +1,4 @@
-Hi, I’m Ray,
+Hello World, I’m Ray,
 
     I’m interested in computer science, video games, music, cars and fashion
     
