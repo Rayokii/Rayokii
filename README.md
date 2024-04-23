@@ -4,4 +4,4 @@ Hello World, I’m Ray,
     
         I have knowledge in: Python, HTML/CSS, JavaScript, Java, Bash & SQL
 
-            I also some knowledge in Bootstrap, React & JavaFX
+            I also have some knowledge in Bootstrap, React & JavaFX
