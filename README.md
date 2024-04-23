@@ -2,6 +2,6 @@ Hello World, I’m Ray,
 
     I’m interested in computer science, video games, music, cars and fashion
     
-        I have knowledge in: Python, HTML/CSS, JavaScript, Java, Bash & SQL
+        I have knowledge in: Python, JavaScript, Java, Bash & SQL
 
-            I also have some knowledge in Bootstrap, React & JavaFX
+            Including: HTML/CSS, Bootstrap, React & JavaFX
